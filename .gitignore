@@ -1,0 +1,2 @@
+/htdocs/logs/*
+!/htdocs/logs/.gitignore
